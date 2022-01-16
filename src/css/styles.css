@@ -36,7 +36,7 @@ body {
 
 .button:hover,
 .button:focus {
-  background-color: rgb(216, 216, 221);
+  background-color: rgb(175, 247, 231);
   color: #fff;
 }
 
@@ -55,9 +55,9 @@ body {
 }
 
 .photo-card {
-  background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0px 5px 10px 2px rgba(78, 87, 105, 0.2);
+  background-color: rgb(241, 238, 238);
+  border-radius: 5px;
+  box-shadow: 0px 5px 10px 2px rgba(52, 58, 70, 0.2);
 
   transition: transform 250ms linear;
   margin-bottom: 20px;
@@ -114,7 +114,7 @@ body {
 }
 
 .load-more:hover {
-  background-color: #000000;
+  background-color: #4e074b;
   color: #ffffff;
 }
 
@@ -135,7 +135,7 @@ body {
   height: 35px;
   margin-left: auto;
   margin-right: auto;
-  border: 7px solid #212121;
+  border: 5px solid #212121;
   border-radius: 65%;
   background-color: rgb(6, 6, 201);
   animation: 2000ms spin infinite linear;
